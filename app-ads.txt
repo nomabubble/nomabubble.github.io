@@ -71,3 +71,7 @@ improvedigital.com, 2507, RESELLER
 smartadserver.com, 5288, RESELLER, 060d053dcf45cbf3
 programmaticx.ai, 6145487, RESELLER
 risecodes.com, 686ea3dfe2c0d50001e494e2, RESELLER
+
+
+
+aiphaz.com,38936,Direct
